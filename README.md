@@ -14,7 +14,7 @@
 
  # git
  ## index 💁‍♂️
- - [Stash](https://github.com/suwan98/TIL-Today-I-Learned/commit/e4d6ff12098a36259915db33af83adf3bafdec30)
+ - [Stash](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/git/git-stash.md)
 
   
   <br/>
@@ -36,6 +36,7 @@
 ## index 💁‍♂️
 - [background](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
 - [CSS BEM 방법론](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/css/CSS-BEM-Naming.md)
+- [CSS 선택자](./css/css-selector.md)
 
 
 
