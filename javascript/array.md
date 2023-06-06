@@ -85,7 +85,7 @@ console.log(fruits); //['apple', 'banana']
 
 <br />
 
->5. 앞에서 추가 / 삭제는?
+>5. 앞에서 추가 / 삭제는?🤔
 
 **unshift()** : 앞에서 **추가**
 
@@ -101,7 +101,7 @@ console.log(fruits);
 
 <br />
 
->6 .아이템을 지정된 포지션에 지우는 건?
+>6. 아이템을 지정된 포지션에 지우는 건?🤔
 
 `array.splice()`
 
@@ -115,7 +115,7 @@ console.log(fruits);
 ```
 <br />
 
-만약 두번째 인수(~~까지 지워줘)를 지정하지 않는다면?
+만약 두번째 인수(~~까지 지워줘)를 지정하지 않는다면?🤔
 
 아래 코드 처럼 **1부터 시작해서 전부 지워버린다(0인 ‘strewbary’만 존재하는 모습)**
 
@@ -138,7 +138,7 @@ console.log(fruits); //['strewbray', '레거시 코드', 'banana', '복숭아', 
 
 <br />
 
-> 7.Array.concat()
+> 7. Array.concat()🤔
 
 원본의 배열 변경없이 배열이나 값들을 기존 배열에 합쳐 **새 배열을 반환**
 - 기존 배열을 변경하지 않는다
@@ -154,7 +154,7 @@ console.log(newFruits);
 
 <br />
 
-> 8. 배열의 검색
+>8. 배열의 검색🤔
 
 
  **`indexOf`**
@@ -172,5 +172,4 @@ console.log(fruits.indexOf("레거시 코드")); //1
 console.log(fruits);
 console.log(fruits.includes("망고")); //false
 console.log(fruits.includes("레거시 코드")); // true
-
   ```
