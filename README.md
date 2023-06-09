@@ -41,6 +41,7 @@
 - [CSS BEM 방법론](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/css/CSS-BEM-Naming.md)
 - [CSS 선택자](./css/css-selector.md)
 - [flex-item 속성](./css/flex-item.md)
+- [CSS Animation](./css/animation.md)
 
 
 
