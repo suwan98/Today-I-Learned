@@ -42,7 +42,8 @@
 - [CSS 선택자](./css/css-selector.md)
 - [flex-item 속성](./css/flex-item.md)
 - [CSS Animation](./css/animation.md)
-- [position:relative 와 absolute 완벽이해하기](./css/position.md)
+- [position:relative 와 absolute 완벽 이해하기](./css/position.md)
+- [display:grid; 완벽 이해하기](./css/grid.md)
 
 
 
