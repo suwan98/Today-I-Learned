@@ -56,6 +56,7 @@
 - [배열의 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/array.md)
 - [함수](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/function.md)
 - [함수 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/function-definition.md)
+- [Array 메서드 slice() 와 splice()의 차이점 및 정의](./javascript/array2.md)
 
 <br />
 <br />
