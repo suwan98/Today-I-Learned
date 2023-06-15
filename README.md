@@ -45,7 +45,7 @@
 - [position:relative 와 absolute 완벽 이해하기](./css/position.md)
 - [display:grid; 완벽 이해하기](./css/grid.md)
 - [a11yHidden 클래스의 사용법과 의미](./css/a11yHidden.md)
-
+- [CSS object-fit 속성에 대해서](./css/object-fit.md)
 
 
 <br />
