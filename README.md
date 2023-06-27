@@ -1,7 +1,7 @@
-<h1>Today I Learned(TIL)<h1>
+<h1>Today I Learned(TIL)</h1>
 
 
-<h2>그날 배운건 그날 기록하고 그날 정리하자<h3/>
+<h2>그날 배운건 그날 기록하고 그날 정리하자</h2>
  
  <br/>
 
@@ -29,6 +29,7 @@
   ## index 💁‍♂️
   - [adress 태그](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/adress-tag.md)
   - [i태그 이슈](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
+  - [HTML Form 태그 및 접근성](./html/html-form.md)
 
 <br />
 <br />
