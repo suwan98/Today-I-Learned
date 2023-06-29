@@ -1,13 +1,15 @@
 <h1>Date() 함수 자세히 알아보기 🚀</h1>
 
-## 1. Date()
+## ✅ 1. Date()
 
 - `Date()`는 자바스크립트의 표준 내장객체이다
 - Javascript의 날짜의 기반은 1970년 1월 1일 UTC 자정과 시간 차이를 밀리초 단위로 나타낸 것이다
   
-    <img src="https://i.imgur.com/9IOh8iX.png" />
-  
-    <img src="https://i.imgur.com/xLXcy0K.png" />
+    <img src="https://i.imgur.com/9IOh8iX.png" width="500"/>
+    
+    <br />
+
+    <img src="https://i.imgur.com/xLXcy0K.png" width="500" />
 
 
 ### 1.1 생성자
@@ -28,7 +30,7 @@ console.log(date) // "Fri Jun 30 2023 00:24:39 GMT+0900 (한국 표준시)" ➡�
 <hr />
 <br />
 
-## 2. 정적 메서드
+## ✅ 2. 정적 메서드
 
 - `Date.now()`
   - 1970년 1월 1일 00:00:00 UTC로 부터 지난 시간을 밀리초 단위의 숫자값으로 반환
@@ -42,7 +44,7 @@ console.log(date) // "Fri Jun 30 2023 00:24:39 GMT+0900 (한국 표준시)" ➡�
 <hr />
 <br />
 
-## 3. 인스터스 메서드
+## ✅ 3. 인스터스 메서드
 
 - `Date.getDate()`
   - Date에서 **현지 시간 기준 일(1~31)**을 반환
@@ -112,7 +114,7 @@ console.log(now.getTime()) // 1688053160379 -> 1970년도 부터 지금까지의
 <hr />
 <br />
 
-## 4. javscript에서 Date() 객체 활용 예시
+## ✅ 4. javscript에서 Date() 객체 활용 예시
 
 - 1. 현재시간 구하기
   `const now = new Date();`  ➡️ now 변수에 현재시간을 담을 수 있다
