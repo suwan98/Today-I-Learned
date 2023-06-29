@@ -5,9 +5,9 @@
 - `Date()`는 자바스크립트의 표준 내장객체이다
 - Javascript의 날짜의 기반은 1970년 1월 1일 UTC 자정과 시간 차이를 밀리초 단위로 나타낸 것이다
   
-    <img src="https://imgur.com/9IOh8iX" />
+    <img src="https://i.imgur.com/9IOh8iX.png" />
   
-    <img src="https://imgur.com/xLXcy0K" />
+    <img src="https://i.imgur.com/xLXcy0K.png" />
 
 
 ### 1.1 생성자
