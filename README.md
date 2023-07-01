@@ -13,7 +13,7 @@
    
 
  # git &nbsp; [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
- ## index 💁‍♂️
+ ## index 💁
  - [Stash](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/git/git-stash.md)
  - [Git-fork](./git/fork.md)
  - [UpStream 과 DownStream의 관계 및 설정](./git/upstream-downstream.md)
@@ -26,7 +26,7 @@
 
    
   # HTML &nbsp; [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
-  ## index 💁‍♂️
+  ## index 💁
   - [adress 태그](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/adress-tag.md)
   - [i태그 이슈](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
   - [HTML Form 태그 및 접근성](./html/html-form.md)
@@ -38,7 +38,7 @@
 
 # CSS &nbsp;  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
  
-## index 💁‍♂️
+## index 💁
 - [background](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
 - [CSS BEM 방법론](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/css/CSS-BEM-Naming.md)
 - [CSS 선택자](./css/css-selector.md)
@@ -55,7 +55,7 @@
 
 
 # javscript &nbsp; [![javascript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-## index 💁‍♂️
+## index 💁
 - [배열의 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/array.md)
 - [함수](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/function.md)
 - [함수 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/function-definition.md)
@@ -66,7 +66,7 @@
 <br />
 
 # react  &nbsp; [![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
-## index 💁‍♂️
+## index 💁
 - 추가 예정입니다🥲
 
 <br />
@@ -74,5 +74,5 @@
 
 
 # typescript &nbsp;   [![Typescript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-## index 💁‍♂️
+## index 💁
 - 추가 예정입니다🥲
