@@ -14,8 +14,8 @@
 
  # git &nbsp; [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
  ## index 💁
- - [Stash](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/git/git-stash.md)
- - [Git-fork](./git/fork.md)
+ - [git-stash](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/git/git-stash.md)
+ - [git-fork](./git/fork.md)
  - [UpStream 과 DownStream의 관계 및 설정](./git/upstream-downstream.md)
  - [상대 원격저장소 끊고 내 원격저장소로 만들기](./git/git-remote-and-clone.md)
 
@@ -27,8 +27,8 @@
    
   # HTML &nbsp; [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   ## index 💁
-  - [adress 태그](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/adress-tag.md)
-  - [i태그 이슈](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
+  - [<adress> 태그](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/adress-tag.md)
+  - [<i> 태그 이슈](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
   - [HTML Form 태그 및 접근성](./html/html-form.md)
   - [HTML data-* 접두사](./html/data.md)
 
@@ -39,7 +39,6 @@
 # CSS &nbsp;  [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
  
 ## index 💁
-- [background](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
 - [CSS BEM 방법론](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/css/CSS-BEM-Naming.md)
 - [CSS 선택자](./css/css-selector.md)
 - [flex-item 속성](./css/flex-item.md)
@@ -61,6 +60,7 @@
 - [함수 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/function-definition.md)
 - [Array 메서드 slice() 와 splice()의 차이점 및 정의](./javascript/array2.md)
 - [Date() 함수 자세히 알아보기](./javascript/Date.md)
+- [Array.fillter() 메서드]('./javascript/array.filter.md')
 
 <br />
 <br />
