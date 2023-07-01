@@ -27,8 +27,8 @@
    
   # HTML &nbsp; [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
   ## index 💁
-  - [<adress> 태그](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/adress-tag.md)
-  - [<i> 태그 이슈](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
+  - [`<adress>` 태그](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/adress-tag.md)
+  - [ `<i>` 태그 이슈](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
   - [HTML Form 태그 및 접근성](./html/html-form.md)
   - [HTML data-* 접두사](./html/data.md)
 
