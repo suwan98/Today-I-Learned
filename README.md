@@ -60,7 +60,7 @@
 - [함수 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/function-definition.md)
 - [Array 메서드 slice() 와 splice()의 차이점 및 정의](./javascript/array2.md)
 - [Date() 함수 자세히 알아보기](./javascript/Date.md)
-- [Array.fillter() 메서드]('./javascript/array.filter.md')
+- [Array.fillter() 메서드]('./javascript/array-filter.md')
 
 <br />
 <br />
