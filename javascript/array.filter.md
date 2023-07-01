@@ -2,8 +2,10 @@
 
 - `Array.prototype.filter()` 메서드는 주어진 조건을 충족하는 요소로만 구성된 **새로운 배열로 반환**한다
 - 조건은 콜백함수를 사용하여 정의
-- 해당 함수는 배열의 각 요소에 접근해 적용 됨
-- 콜백함수가 true를 반환하면 해당 요소가 배열에 포함된다
+- 해당 함수는 배열의 **각 요소에 접근해 적용** 됨
+- 콜백함수가 `true`를 반환하면 해당 요소가 **배열에 포함**된다
+
+<br />
 
 ## Array.fillter() 예시 (1)
 ```jsx
@@ -12,6 +14,8 @@ const arr = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 const evenNumbers = arr.filter(number => number % 2 === 0);
 console.log(evenNumbers);  // [2,4,6,8]
 ```
+<br />
+
 
 ## Array.fillter() 예시 (2) 
 - 아래 코드처럼 한줄 이상의 값이 콜백함수에 들어갈땐
@@ -27,6 +31,8 @@ const greaterOrEqual5 = numbers.filter((number) => {
 
 console.log(greaterOrEqual5) // [5,7,10]
 ```
+<br />
+
 
 ## Array.fillter() 예시 (3) 
 - `fillter()` 메서드는 숫자뿐만이아니라 문자열의 추출에서도 사용가능하다
@@ -40,3 +46,5 @@ const fruits = ['apple', 'banana', 'avocado', 'grape'];
 const aFruits = fruits.filter(fruit => fruit[0].toLowerCase() === 'a');
 console.log(aFruits); // ['apple', 'avocado']
 ```
+
+<br />
