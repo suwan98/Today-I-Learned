@@ -55,7 +55,7 @@ const goBack = () => {
 <hr />
 
 
-![Alt text](image.png)
+![Alt text](./assets/BOM/image.png)
 
 - 현재 브라우제 표시된 HTML 문서의 주소를 얻거나
 - 새 문서를 불러올 때 사용
@@ -67,7 +67,7 @@ const goBack = () => {
 <hr />
 
 - 사용자의 디스플레이 화면에 대한 다양한 정보를 저장하는 객체
-![Alt text](image-1.png)
+![Alt text](./assets/BOM/image-1.png)
 
 <br />
 
@@ -76,4 +76,4 @@ const goBack = () => {
 
 - 브라우저 공급자 및 버전 정보 등을 포함한 브러우저에 대한 다양한 정보를 저장하는 객체
 
-![Alt text](image-3.png)
+![Alt text](./assets/BOM/image-3.png)
