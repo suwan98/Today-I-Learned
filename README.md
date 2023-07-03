@@ -61,6 +61,7 @@
 - [Array 메서드 slice() 와 splice()의 차이점 및 정의](./javascript/array2.md)
 - [Date() 함수 자세히 알아보기](./javascript/Date.md)
 - [Array.fillter() 메서드](./javascript/array-filter.md)
+- [브라우저 객체 모델(BOM)](./javascript/BOM.md)
 
 <br />
 <br />
