@@ -64,6 +64,7 @@
 - [브라우저 객체 모델(BOM)](./javascript/BOM.md)
 - [Object.assing() 메서드](./javascript/Object.assign.md)
 - [for-in 문](./javascript/for-in.md)
+- [자바스크립트에서의 NodeType](./javascript/node-type.md)
 
 <br />
 <br />
