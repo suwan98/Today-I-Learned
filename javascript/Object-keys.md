@@ -1,4 +1,4 @@
-# 객체 메서드 Object.keys()
+# 객체 메서드 Object.keys() / Object.value()
 
 ## Object.keys()란?
 
@@ -22,3 +22,15 @@ console.log(newArray)
 
 ```
 ![Alt text](./assets/obj.keys.png)
+
+<hr />
+
+## Object.values()
+
+- 위의` Object.keys()`와 동작방식이 동일한데 차이점은 `key`가 아닌 `value`값을 반환한다는 것이다
+
+```js
+const arr2 = Object.values(obj)
+```
+![Alt text](./assets/obj.values.png)
+<span style="color:gray"> _기존 object의 values가 새로운 하나의 배열로 리턴된 모습_</span>
