@@ -21,9 +21,13 @@ const newArray = Object.keys(obj)
 console.log(newArray)
 
 ```
+<br />
+
 ![Alt text](./assets/obj.keys.png)
 
+<br />
 <hr />
+<br />
 
 ## Object.values()
 
@@ -32,5 +36,9 @@ console.log(newArray)
 ```js
 const arr2 = Object.values(obj)
 ```
+
+<br />
+
 ![Alt text](./assets/obj.values.png)
+
 <span style="color:gray"> _기존 object의 values가 새로운 하나의 배열로 리턴된 모습_</span>
