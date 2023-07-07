@@ -66,6 +66,7 @@
 - [for-in 문](./javascript/for-in.md)
 - [자바스크립트에서의 NodeType](./javascript/node-type.md)
 - [Object.keys()와 Object.values() 메서드](./javascript/Object-keys.md)
+- [String.trim()메서드 알아보기](./javascript/String-trim.md)
 
 <br />
 <br />
