@@ -69,6 +69,7 @@
 - [String.trim()메서드 알아보기](./javascript/String-trim.md)
 - [utility custom function getCSS()/setCSS() 만들어보기](./javascript/getCSS_setCSS.md)
 - [Callback 함수](./javascript/callback-function.md)
+- [배열과 객체의 구조 분해 할당](./javascript/destructuring-assignment.md)
 
 <br />
 <br />
