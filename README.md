@@ -70,6 +70,7 @@
 - [utility custom function getCSS()/setCSS() 만들어보기](./javascript/getCSS_setCSS.md)
 - [Callback 함수](./javascript/callback-function.md)
 - [배열과 객체의 구조 분해 할당](./javascript/destructuring-assignment.md)
+- [일반함수에서 argments와 화살표함수에서 rest-parmeter](./javascript/argments.md)
 
 <br />
 <br />
