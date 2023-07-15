@@ -62,7 +62,7 @@
 - [Date() 함수 자세히 알아보기](./javascript/Date.md)
 - [Array.fillter() 메서드](./javascript/array-filter.md)
 - [브라우저 객체 모델(BOM)](./javascript/BOM.md)
-- [Object.assing() 메서드](./javascript/Object.assign.md)
+- [Object.assign() 메서드](./javascript/Object.assign.md)
 - [for-in 문](./javascript/for-in.md)
 - [자바스크립트에서의 NodeType](./javascript/node-type.md)
 - [Object.keys()와 Object.values() 메서드](./javascript/Object-keys.md)
