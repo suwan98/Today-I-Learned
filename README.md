@@ -72,6 +72,7 @@
 - [배열과 객체의 구조 분해 할당](./javascript/destructuring-assignment.md)
 - [일반함수에서 argments와 화살표함수에서 rest-parmeter](./javascript/argments.md)
 - [closet() DOM메서드](./javascript/closest.md)
+- [Javascript Scopr 개념](./javascript/scope.md)
 
 <br />
 <br />
