@@ -74,6 +74,7 @@
 - [closet() DOM메서드](./javascript/closest.md)
 - [Javascript Scope 개념](./javascript/scope.md)
 - [Node.contains 메서드](./javascript/Node.contains().md)
+- [Node.removeChild 메서드](./javascript/Node.removeChild.md)
 
 <br />
 <br />
