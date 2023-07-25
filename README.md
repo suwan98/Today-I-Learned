@@ -18,6 +18,7 @@
  - [git-fork](./git/fork.md)
  - [UpStream 과 DownStream의 관계 및 설정](./git/upstream-downstream.md)
  - [상대 원격저장소 끊고 내 원격저장소로 만들기](./git/git-remote-and-clone.md)
+ - [git으로 특정 브랜치 clone 및 degit](./git/git-clone-branch.md)
 
   
   <br/>
@@ -81,7 +82,7 @@
 
 # [![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp; react
 ## index 💁
-- 추가 예정입니다🥲
+- 추가 예정입니다🥲0
 
 <br />
 <br />
