@@ -76,6 +76,7 @@
 - [Javascript Scope 개념](./javascript/scope.md)
 - [Node.contains 메서드](./javascript/Node.contains().md)
 - [Node.removeChild 메서드](./javascript/Node.removeChild.md)
+- [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced](./javascript/toSorted_toReversed_toSpliced.md)
 
 <br />
 <br />
