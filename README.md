@@ -77,6 +77,7 @@
 - [Node.contains 메서드](./javascript/Node.contains().md)
 - [Node.removeChild 메서드](./javascript/Node.removeChild.md)
 - [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced](./javascript/toSorted_toReversed_toSpliced.md)
+- [BOM navigatior의 copy 기능](./javascript/Object.prototype.toString.md)
 
 <br />
 <br />
