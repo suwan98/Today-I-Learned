@@ -1,0 +1,1 @@
+# Object.prototype.call() 메서드
