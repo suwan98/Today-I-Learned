@@ -91,6 +91,7 @@
 - [reactRouter Hook useLocation](./react/useLocation.md)
 - [useMemo vs useCallback](./react/useMemo-useCallback.md)
 - [Helmet](./react/Helmet.md)
+- [useSearchParams](./react/useSearchParams.md)
 
 <br />
 <br />
