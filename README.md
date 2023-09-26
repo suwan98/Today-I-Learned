@@ -85,8 +85,7 @@
 - [Element.closest](./javascript/closest.md)
 - [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced 메서드](./javascript/toSorted_toReversed_toSpliced.md)
 - [Javascript call 메서드](./javascript/call.md)
-- [Node.contains 메서드](<./javascript/Node.contains().md>)
-- [Node.removeChild 메서드](./javascript/Node.removeChild.md)
+
 - [Object.assign 메서드](./javascript/Object.assign.md)
 - [Object.keys와 Object.values 메서드](./javascript/Object-keys.md)
 - [String.trim메서드](./javascript/String-trim.md)
@@ -100,14 +99,16 @@
 
 ### DOM Methods/Property
 
+- [Node.contains 메서드](<./javascript/Node.contains().md>)
+- [Node.removeChild 메서드](./javascript/Node.removeChild.md)
 - [Element.prototype.matches 메서드 : 특정 요소 노드를 취득할 수 있는지 확인](./javascript/Element_matches.md)
-- [노드 탐색 프로퍼티들](./javascript/search_nodes.md)
 - [appendChild & inserBefore : 특정 노드 삽입 메서드와 프로퍼티](./javascript/appendChild_insertBefore.md)
+- [노드 탐색 프로퍼티들](./javascript/search_nodes.md)
 - [노드 교체](./javascript/change_node.md)
 - [노드 삭제](./javascript/remove_node.md)
 - [요소 노드의 텍스트 조작](./javscript/handle_textNode.md)
 - [innerHTML 프로퍼티](./javascript/innerHTML.md)
-- [insertAdjacentHTML 메서드]
+- [insertAdjacentHTML 메서드](./javascript/insertAdjacentHTML.md)
 - [Element.prototype.getAttribute과setAttribute 메서드 : 어트리뷰트 조작]
   <br />
   <br />
