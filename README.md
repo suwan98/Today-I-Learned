@@ -100,4 +100,4 @@
 
 ## index 💁
 
-- 추가 예정입니다🥲
+- [Javascript에 존재하는 type의 선언](./typescript/javascript_type.md)
