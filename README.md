@@ -101,4 +101,5 @@
 ## index 💁
 
 - [Javascript에 존재하는 type의 선언](./typescript/javascript_type.md)
-- [Typescript만의 특별한 type들]('./typescript/typescript_type.md)
+- [Typescript만의 특별한 type들](./typescript/typescript_type.md)
+- [인터페이스]('./typescript/interface.md)
