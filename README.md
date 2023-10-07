@@ -120,8 +120,9 @@
 ## React Fundamentals
 
 - [리액트는 무엇인가?](./react/whatIsReact.md)
-- ["스냅샷"같은 상태](./react/snap_shot.md)
 - [React에서의 가상돔](./react/virtualDOM.md)
+- [단방향 데이터 바인딩](./react/one_way_data_binding.md)
+- ["스냅샷"같은 상태](./react/snap_shot.md)
 
 ## React Hooks
 
