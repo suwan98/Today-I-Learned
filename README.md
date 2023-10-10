@@ -79,6 +79,7 @@
 - [BOM navigatior의 copy 기능](./javascript/Object.prototype.toString.md)
 - [Javascript call() 메서드](./javascript/call.md)
 - [OR(||)연산자와 AND연산자(&&)](./javascript/AND_OR.md)
+- [가비지 콜렉터](./javascript/garbage_collection.md)
 
 <br />
 <br />
