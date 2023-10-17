@@ -94,6 +94,7 @@
 - [useMemo vs useCallback](./react/useMemo-useCallback.md)
 - [Helmet](./react/Helmet.md)
 - [useSearchParams](./react/useSearchParams.md)
+- ["스냅샷"같은 상태](./react/snap_shot.md)
 
 <br />
 <br />
