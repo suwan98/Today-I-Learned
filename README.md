@@ -81,6 +81,7 @@
 - [OR(||)연산자와 AND연산자(&&)](./javascript/AND_OR.md)
 - [가비지 콜렉터](./javascript/garbage_collection.md)
 - [변수의 생명주기](./javascript/variable_life_cycle.md)
+- [렉시컬 스코프](./javascript/lexical_scope.md)
 
 <br />
 <br />
