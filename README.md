@@ -4,7 +4,7 @@
  
  <br/>
 
-> ### _“ 세상에 가장 흐린 먹물도 가장 좋은 기억력보다 낫다. ”_
+> ### _“ 세상에 가장 흐린 먹물도 가장 좋은 기억력보다 낫다.”_
 
 <br/>
   <br />
@@ -82,6 +82,7 @@
 - [가비지 콜렉터](./javascript/garbage_collection.md)
 - [변수의 생명주기](./javascript/variable_life_cycle.md)
 - [렉시컬 스코프](./javascript/lexical_scope.md)
+- [Array.every 메서드](<./javascript/Array.prototype.every().md>)
 
 <br />
 <br />
