@@ -55,34 +55,43 @@
 
 ## index 💁
 
+### JavaScript Fundamentals
+
 - [배열의 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/array.md)
 - [함수](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/function.md)
 - [함수 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/function-definition.md)
-- [Array 메서드 slice() 와 splice()의 차이점 및 정의](./javascript/array2.md)
 - [Date() 함수 자세히 알아보기](./javascript/Date.md)
-- [Array.fillter() 메서드](./javascript/array-filter.md)
-- [브라우저 객체 모델(BOM)](./javascript/BOM.md)
-- [Object.assign() 메서드](./javascript/Object.assign.md)
 - [for-in 문](./javascript/for-in.md)
-- [자바스크립트에서의 NodeType](./javascript/node-type.md)
-- [Object.keys()와 Object.values() 메서드](./javascript/Object-keys.md)
-- [String.trim()메서드 알아보기](./javascript/String-trim.md)
+- [OR(||)연산자와 AND연산자(&&)](./javascript/AND_OR.md)
 - [utility custom function getCSS()/setCSS() 만들어보기](./javascript/getCSS_setCSS.md)
-- [Callback 함수](./javascript/callback-function.md)
+- [자바스크립트에서의 NodeType](./javascript/node-type.md)
 - [배열과 객체의 구조 분해 할당](./javascript/destructuring-assignment.md)
 - [일반함수에서 argments와 화살표함수에서 rest-parmeter](./javascript/argments.md)
+- [Callback 함수](./javascript/callback-function.md)
+
+### JavaScript Methods
+
+- [Array 메서드 slice() 와 splice()의 차이점 및 정의](./javascript/array2.md)
+- [Array.fillter() 메서드](./javascript/array-filter.md)
+- [Object.assign() 메서드](./javascript/Object.assign.md)
+- [Object.keys()와 Object.values() 메서드](./javascript/Object-keys.md)
+- [String.trim()메서드](./javascript/String-trim.md)
 - [closet() DOM메서드](./javascript/closest.md)
-- [Javascript Scope 개념](./javascript/scope.md)
 - [Node.contains 메서드](<./javascript/Node.contains().md>)
 - [Node.removeChild 메서드](./javascript/Node.removeChild.md)
-- [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced](./javascript/toSorted_toReversed_toSpliced.md)
+- [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced 메서드](./javascript/toSorted_toReversed_toSpliced.md)
 - [BOM navigatior의 copy 기능](./javascript/Object.prototype.toString.md)
 - [Javascript call() 메서드](./javascript/call.md)
-- [OR(||)연산자와 AND연산자(&&)](./javascript/AND_OR.md)
+- [Array.prototype.every() 메서드](<./javascript/Array.prototype.every().md>)
+
+### JavaScript Engine
+
+- [문서 객체 모델 (DOM)](./javascript/DOM.md)
+- [브라우저 객체 모델(BOM)](./javascript/BOM.md)
+- [Javascript Scope 개념](./javascript/scope.md)
 - [가비지 콜렉터](./javascript/garbage_collection.md)
 - [변수의 생명주기](./javascript/variable_life_cycle.md)
 - [렉시컬 스코프](./javascript/lexical_scope.md)
-- [Array.prototype.every() 메서드](<./javascript/Array.prototype.every().md>)
 - [원시값과 래퍼객체](./javascript/rapperObject.md)
 
 <br />
@@ -106,11 +115,12 @@
 
 ## index 💁
 
-- [Javascript에 존재하는 type의 선언](./typescript/javascript_type.md)
-- [Typescript만의 특별한 type의 선언](./typescript/typescript_type.md)
+- [JavaScript에 존재하는 type의 선언](./typescript/javascript_type.md)
+- [TypeScript만의 특별한 type의 선언](./typescript/typescript_type.md)
 - [인터페이스](./typescript/interface.md)
 - [타입단언](./typescript/type_assertion.md)
 - [함수오버로딩](./typescript/function_overloading.md)
+- [TypeScript에서의 keyof 연산자]('./typescript/ts_keyof.md)
 
 <br />
 <br />
