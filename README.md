@@ -82,7 +82,8 @@
 - [가비지 콜렉터](./javascript/garbage_collection.md)
 - [변수의 생명주기](./javascript/variable_life_cycle.md)
 - [렉시컬 스코프](./javascript/lexical_scope.md)
-- [Array.every 메서드](<./javascript/Array.prototype.every().md>)
+- [Array.prototype.every() 메서드](<./javascript/Array.prototype.every().md>)
+- [원시값과 래퍼객체](./javascript/rapperObject.md)
 
 <br />
 <br />
@@ -106,7 +107,7 @@
 ## index 💁
 
 - [Javascript에 존재하는 type의 선언](./typescript/javascript_type.md)
-- [Typescript만의 특별한 type들](./typescript/typescript_type.md)
+- [Typescript만의 특별한 type의 선언](./typescript/typescript_type.md)
 - [인터페이스](./typescript/interface.md)
 - [타입단언](./typescript/type_assertion.md)
 - [함수오버로딩](./typescript/function_overloading.md)
