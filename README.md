@@ -67,7 +67,18 @@
 - [자바스크립트에서의 NodeType](./javascript/node-type.md)
 - [배열과 객체의 구조 분해 할당](./javascript/destructuring-assignment.md)
 - [일반함수에서 argments와 화살표함수에서 rest-parmeter](./javascript/argments.md)
-- [Callback 함수](./javascript/callback-function.md)
+- [callback 함수](./javascript/callback-function.md)
+- [this와 동적인 바인딩](./javascript/this.md)
+
+### JavaScript Engine
+
+- [문서 객체 모델 (DOM)](./javascript/DOM.md)
+- [브라우저 객체 모델(BOM)](./javascript/BOM.md)
+- [Javascript Scope 개념](./javascript/scope.md)
+- [가비지 콜렉터](./javascript/garbage_collection.md)
+- [변수의 생명주기](./javascript/variable_life_cycle.md)
+- [렉시컬 스코프](./javascript/lexical_scope.md)
+- [원시값과 래퍼객체](./javascript/rapperObject.md)
 
 ### JavaScript Methods
 
@@ -83,16 +94,6 @@
 - [BOM navigatior의 copy 기능](./javascript/Object.prototype.toString.md)
 - [Javascript call() 메서드](./javascript/call.md)
 - [Array.prototype.every() 메서드](<./javascript/Array.prototype.every().md>)
-
-### JavaScript Engine
-
-- [문서 객체 모델 (DOM)](./javascript/DOM.md)
-- [브라우저 객체 모델(BOM)](./javascript/BOM.md)
-- [Javascript Scope 개념](./javascript/scope.md)
-- [가비지 콜렉터](./javascript/garbage_collection.md)
-- [변수의 생명주기](./javascript/variable_life_cycle.md)
-- [렉시컬 스코프](./javascript/lexical_scope.md)
-- [원시값과 래퍼객체](./javascript/rapperObject.md)
 
 <br />
 <br />
