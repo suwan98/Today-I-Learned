@@ -24,5 +24,5 @@ console.log(primitiveString.toLocaleLowerCase()); //hello
 
 - 따라서 표준 빌트인 객체들의 프로토타입 메서드 또는 프로퍼티를 참조 가능
   - 그러므로 `String,Number,Boolean` 생성자 함수를 `new` 연산자를 함께 호출하여 인스턴스를 생성할 필요가 ❌
-  - null과 undefined는 래퍼객체를 생성 ❌
+  - `null`과 `undefined`는 래퍼객체를 생성 ❌
     - 해당 값을 객체처럼 참조하면 참조에러가 발생한다
