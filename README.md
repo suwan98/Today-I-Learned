@@ -84,7 +84,10 @@
 ### JavaScript Methods
 
 - [Array 메서드 slice() 와 splice()의 차이점 및 정의](./javascript/array2.md)
-- [Array.fillter() 메서드](./javascript/array-filter.md)
+- [Array.prototype.fillter() 메서드](./javascript/array-filter.md)
+- [Array.prototype.every() 메서드](<./javascript/Array.prototype.every().md>)
+- [Array.from() 메서드](./javascript/Array.prototype.from.md)
+- [BOM navigatior의 copy 기능](./javascript/Object.prototype.toString.md)
 - [Object.assign() 메서드](./javascript/Object.assign.md)
 - [Object.keys()와 Object.values() 메서드](./javascript/Object-keys.md)
 - [String.trim()메서드](./javascript/String-trim.md)
@@ -92,9 +95,7 @@
 - [Node.contains 메서드](<./javascript/Node.contains().md>)
 - [Node.removeChild 메서드](./javascript/Node.removeChild.md)
 - [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced 메서드](./javascript/toSorted_toReversed_toSpliced.md)
-- [BOM navigatior의 copy 기능](./javascript/Object.prototype.toString.md)
 - [Javascript call() 메서드](./javascript/call.md)
-- [Array.prototype.every() 메서드](<./javascript/Array.prototype.every().md>)
 
 <br />
 <br />
