@@ -1,6 +1,6 @@
-<h1>Today I Learned(TIL)</h1>
+<h1>Today I Learned(TIL) 🏊‍♂️</h1>
 
-<h2>그날 배운건 그날 기록하고 그날 정리하자</h2>
+<h2>그날 그날 배우고 익히는 프론트엔드 학습(学习) 저장소</h2>
  
  <br/>
 
@@ -134,6 +134,7 @@
 - [타입단언](./typescript/type_assertion.md)
 - [함수오버로딩](./typescript/function_overloading.md)
 - [TypeScript에서의 keyof 연산자]('./typescript/ts_keyof.md)
+- [타입 서술어](./typescript/type_predicate.md)
 
 <br />
 <br />
