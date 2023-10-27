@@ -1,5 +1,7 @@
 <h1>Today I Learned(TIL) 🏊‍♂️</h1>
 
+<br />
+
 <h2>그날 그날 배우고 익히는 프론트엔드 학습(学习) 저장소</h2>
  
  <br/>
@@ -7,11 +9,9 @@
 > ### _“ 세상에 가장 흐린 먹물도 가장 좋은 기억력보다 낫다.”_
 
 <br/>
-  <br />
+<br />
 
 # [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp; git
-
-## index 💁
 
 - [git-stash](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/git/git-stash.md)
 - [git-fork](./git/fork.md)
@@ -24,8 +24,6 @@
 
 # [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev) &nbsp; HTML
 
-## index 💁
-
 - [`<adress>` 태그](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/adress-tag.md)
 - [ `<i>` 태그 이슈](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
 - [HTML Form 태그 및 접근성](./html/html-form.md)
@@ -35,8 +33,6 @@
 <br />
 
 # [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp; CSS
-
-## index 💁
 
 - [CSS BEM 방법론](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/css/CSS-BEM-Naming.md)
 - [CSS 선택자](./css/css-selector.md)
@@ -52,8 +48,6 @@
 <br />
 
 # [![javascript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp; javscript
-
-## index 💁
 
 ### JavaScript Fundamentals
 
@@ -102,8 +96,6 @@
 
 # [![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp; react
 
-## index 💁
-
 ### React Fundamentals
 
 - [React에서의 가상돔](./react/virtualDOM.md)
@@ -126,21 +118,17 @@
 
 # [![Typescript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev) &nbsp; typescript
 
-## index 💁
-
 - [JavaScript에 존재하는 type의 선언](./typescript/javascript_type.md)
 - [TypeScript만의 특별한 type의 선언](./typescript/typescript_type.md)
 - [인터페이스](./typescript/interface.md)
 - [타입단언](./typescript/type_assertion.md)
 - [함수오버로딩](./typescript/function_overloading.md)
-- [TypeScript에서의 keyof 연산자]('./typescript/ts_keyof.md)
+- [TypeScript에서의 keyof 연산자](./typescript/ts_keyof.md)
 - [타입 서술어](./typescript/type_predicate.md)
 
 <br />
 <br />
 
 # [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) &nbsp; nextjs
-
-## index 💁
 
 - 준비중입니다..😵
