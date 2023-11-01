@@ -120,6 +120,7 @@
 
 - [JavaScript에 존재하는 type의 선언](./typescript/javascript_type.md)
 - [TypeScript만의 특별한 type의 선언](./typescript/typescript_type.md)
+- [TypeScript 타입 연산자 종류](./typescript/ts_operator.md)
 - [인터페이스](./typescript/interface.md)
 - [타입단언](./typescript/type_assertion.md)
 - [함수오버로딩](./typescript/function_overloading.md)
