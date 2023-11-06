@@ -13,11 +13,11 @@
 
 # [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp; git
 
+- [상대 원격저장소 끊고 내 원격저장소로 만들기](./git/git-remote-and-clone.md)
 - [Stash](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/git/git-stash.md)
 - [Fork](./git/fork.md)
-- [UpStream 과 DownStream의 관계 및 설정](./git/upstream-downstream.md)
-- [상대 원격저장소 끊고 내 원격저장소로 만들기](./git/git-remote-and-clone.md)
 - [git으로 특정 브랜치 clone 및 degit](./git/git-clone-branch.md)
+- [UpStream 과 DownStream의 관계 및 설정](./git/upstream-downstream.md)
 
   <br/>
   <br />
@@ -34,15 +34,15 @@
 
 # [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev) &nbsp; CSS
 
+- [a11yHidden 클래스의 사용법과 의미](./css/a11yHidden.md)
 - [CSS BEM 방법론](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/css/CSS-BEM-Naming.md)
 - [CSS 선택자](./css/css-selector.md)
-- [flex-item 속성](./css/flex-item.md)
 - [CSS Animation](./css/animation.md)
+- [CSS object-fit 속성에 대해서](./css/object-fit.md)
+- [flex-item 속성](./css/flex-item.md)
+- [CSS position top,bottom,left,right translate 완벽정리](./css/CSS-top-right-left-bottom.md)
 - [position:relative 와 absolute 완벽 이해하기](./css/position.md)
 - [display:grid; 완벽 이해하기](./css/grid.md)
-- [a11yHidden 클래스의 사용법과 의미](./css/a11yHidden.md)
-- [CSS object-fit 속성에 대해서](./css/object-fit.md)
-- [CSS position top,bottom,left,right translate 완벽정리](./css/CSS-top-right-left-bottom.md)
 
 <br />
 <br />
@@ -52,15 +52,16 @@
 ### JavaScript Fundamentals
 
 - [배열의 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/array.md)
+- [일반함수에서 argments와 화살표함수에서 rest-parmeter](./javascript/argments.md)
+- [배열과 객체의 구조 분해 할당](./javascript/destructuring-assignment.md)
+- [자바스크립트에서의 NodeType](./javascript/node-type.md)
 - [함수](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/function.md)
 - [함수 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/function-definition.md)
-- [Date() 함수 자세히 알아보기](./javascript/Date.md)
+- [Date 생성자 함수 자세히 알아보기](./javascript/Date.md)
 - [for-in 문](./javascript/for-in.md)
+- [for-of 문](./javascript/for-of.md)
 - [OR(||)연산자와 AND연산자(&&)](./javascript/AND_OR.md)
-- [utility custom function getCSS()/setCSS() 만들어보기](./javascript/getCSS_setCSS.md)
-- [자바스크립트에서의 NodeType](./javascript/node-type.md)
-- [배열과 객체의 구조 분해 할당](./javascript/destructuring-assignment.md)
-- [일반함수에서 argments와 화살표함수에서 rest-parmeter](./javascript/argments.md)
+- [utility custom function getCSS/setCSS 만들어보기](./javascript/getCSS_setCSS.md)
 - [callback 함수](./javascript/callback-function.md)
 - [this와 동적인 바인딩](./javascript/this.md)
 - [instanceof 연산자](./javascript/instanceof.md)
@@ -68,13 +69,13 @@
 
 ### JavaScript Engine
 
+- [가비지 콜렉터](./javascript/garbage_collection.md)
+- [렉시컬 스코프](./javascript/lexical_scope.md)
 - [문서 객체 모델 (DOM)](./javascript/DOM.md)
 - [브라우저 객체 모델(BOM)](./javascript/BOM.md)
-- [Javascript Scope 개념](./javascript/scope.md)
-- [가비지 콜렉터](./javascript/garbage_collection.md)
 - [변수의 생명주기](./javascript/variable_life_cycle.md)
-- [렉시컬 스코프](./javascript/lexical_scope.md)
 - [원시값과 래퍼객체](./javascript/rapperObject.md)
+- [Javascript Scope 개념](./javascript/scope.md)
 
 ### JavaScript Methods
 
@@ -83,14 +84,14 @@
 - [Array.prototype.every() 메서드](<./javascript/Array.prototype.every().md>)
 - [Array.from() 메서드](./javascript/Array.prototype.from.md)
 - [BOM navigatior의 copy 기능](./javascript/Object.prototype.toString.md)
+- [closet DOM메서드](./javascript/closest.md)
+- [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced 메서드](./javascript/toSorted_toReversed_toSpliced.md)
+- [Javascript call() 메서드](./javascript/call.md)
+- [Node.contains 메서드](<./javascript/Node.contains().md>)
+- [Node.removeChild 메서드](./javascript/Node.removeChild.md)
 - [Object.assign() 메서드](./javascript/Object.assign.md)
 - [Object.keys()와 Object.values() 메서드](./javascript/Object-keys.md)
 - [String.trim()메서드](./javascript/String-trim.md)
-- [closet() DOM메서드](./javascript/closest.md)
-- [Node.contains 메서드](<./javascript/Node.contains().md>)
-- [Node.removeChild 메서드](./javascript/Node.removeChild.md)
-- [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced 메서드](./javascript/toSorted_toReversed_toSpliced.md)
-- [Javascript call() 메서드](./javascript/call.md)
 
 <br />
 <br />
@@ -99,8 +100,8 @@
 
 ### React Fundamentals
 
-- [React에서의 가상돔](./react/virtualDOM.md)
 - ["스냅샷"같은 상태](./react/snap_shot.md)
+- [React에서의 가상돔](./react/virtualDOM.md)
 
 ### React Hooks
 
