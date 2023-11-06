@@ -13,8 +13,8 @@
 
 # [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp; git
 
-- [git-stash](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/git/git-stash.md)
-- [git-fork](./git/fork.md)
+- [Stash](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/git/git-stash.md)
+- [Fork](./git/fork.md)
 - [UpStream 과 DownStream의 관계 및 설정](./git/upstream-downstream.md)
 - [상대 원격저장소 끊고 내 원격저장소로 만들기](./git/git-remote-and-clone.md)
 - [git으로 특정 브랜치 clone 및 degit](./git/git-clone-branch.md)
@@ -64,6 +64,7 @@
 - [callback 함수](./javascript/callback-function.md)
 - [this와 동적인 바인딩](./javascript/this.md)
 - [instanceof 연산자](./javascript/instanceof.md)
+- [export VS export default](./javascript/export_export-default.md)
 
 ### JavaScript Engine
 
@@ -121,10 +122,10 @@
 - [JavaScript에 존재하는 type의 선언](./typescript/javascript_type.md)
 - [TypeScript만의 특별한 type의 선언](./typescript/typescript_type.md)
 - [TypeScript 타입 연산자 종류](./typescript/ts_operator.md)
+- [TypeScript에서의 keyof 연산자](./typescript/ts_keyof.md)
 - [인터페이스](./typescript/interface.md)
 - [타입단언](./typescript/type_assertion.md)
 - [함수오버로딩](./typescript/function_overloading.md)
-- [TypeScript에서의 keyof 연산자](./typescript/ts_keyof.md)
 - [타입 서술어](./typescript/type_predicate.md)
 
 <br />
