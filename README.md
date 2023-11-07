@@ -39,8 +39,8 @@
 - [CSS 선택자](./css/css-selector.md)
 - [CSS Animation](./css/animation.md)
 - [CSS object-fit 속성에 대해서](./css/object-fit.md)
-- [flex-item 속성](./css/flex-item.md)
 - [CSS position top,bottom,left,right translate 완벽정리](./css/CSS-top-right-left-bottom.md)
+- [flex-item 속성](./css/flex-item.md)
 - [position:relative 와 absolute 완벽 이해하기](./css/position.md)
 - [display:grid; 완벽 이해하기](./css/grid.md)
 
@@ -79,19 +79,19 @@
 
 ### JavaScript Methods
 
-- [Array 메서드 slice() 와 splice()의 차이점 및 정의](./javascript/array2.md)
-- [Array.prototype.fillter() 메서드](./javascript/array-filter.md)
-- [Array.prototype.every() 메서드](<./javascript/Array.prototype.every().md>)
-- [Array.from() 메서드](./javascript/Array.prototype.from.md)
+- [Array 메서드 slice 와 splice의 차이점 및 정의](./javascript/array2.md)
+- [Array.prototype.fillter 메서드](./javascript/array-filter.md)
+- [Array.prototype.every 메서드](<./javascript/Array.prototype.every().md>)
+- [Array.from 메서드](./javascript/Array.prototype.from.md)
 - [BOM navigatior의 copy 기능](./javascript/Object.prototype.toString.md)
 - [closet DOM메서드](./javascript/closest.md)
 - [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced 메서드](./javascript/toSorted_toReversed_toSpliced.md)
-- [Javascript call() 메서드](./javascript/call.md)
+- [Javascript call 메서드](./javascript/call.md)
 - [Node.contains 메서드](<./javascript/Node.contains().md>)
 - [Node.removeChild 메서드](./javascript/Node.removeChild.md)
-- [Object.assign() 메서드](./javascript/Object.assign.md)
-- [Object.keys()와 Object.values() 메서드](./javascript/Object-keys.md)
-- [String.trim()메서드](./javascript/String-trim.md)
+- [Object.assign 메서드](./javascript/Object.assign.md)
+- [Object.keys와 Object.values 메서드](./javascript/Object-keys.md)
+- [String.trim메서드](./javascript/String-trim.md)
 
 <br />
 <br />
