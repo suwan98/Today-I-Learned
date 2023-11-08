@@ -49,7 +49,7 @@
 
 # [![javascript](https://skillicons.dev/icons?i=js)](https://skillicons.dev) &nbsp; javscript
 
-### JavaScript Fundamentals
+## JavaScript Fundamentals
 
 - [배열의 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/array.md)
 - [일반함수에서 argments와 화살표함수에서 rest-parmeter](./javascript/argments.md)
@@ -66,8 +66,10 @@
 - [this와 동적인 바인딩](./javascript/this.md)
 - [instanceof 연산자](./javascript/instanceof.md)
 - [export VS export default](./javascript/export_export-default.md)
+- [HTMLCollection과 NodeList](./javascript/HTMLCollection_NodeList.md)
+- [어트리뷰트 노드와 attributes 프로퍼티]
 
-### JavaScript Engine
+## JavaScript Engine
 
 - [가비지 콜렉터](./javascript/garbage_collection.md)
 - [렉시컬 스코프](./javascript/lexical_scope.md)
@@ -77,14 +79,10 @@
 - [원시값과 래퍼객체](./javascript/rapperObject.md)
 - [Javascript Scope 개념](./javascript/scope.md)
 
-### JavaScript Methods
+## JavaScript Methods&Property
 
-- [Array 메서드 slice 와 splice의 차이점 및 정의](./javascript/array2.md)
-- [Array.prototype.fillter 메서드](./javascript/array-filter.md)
-- [Array.prototype.every 메서드](<./javascript/Array.prototype.every().md>)
-- [Array.from 메서드](./javascript/Array.prototype.from.md)
 - [BOM navigatior의 copy 기능](./javascript/Object.prototype.toString.md)
-- [closet DOM메서드](./javascript/closest.md)
+- [Element.closest](./javascript/closest.md)
 - [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced 메서드](./javascript/toSorted_toReversed_toSpliced.md)
 - [Javascript call 메서드](./javascript/call.md)
 - [Node.contains 메서드](<./javascript/Node.contains().md>)
@@ -93,27 +91,45 @@
 - [Object.keys와 Object.values 메서드](./javascript/Object-keys.md)
 - [String.trim메서드](./javascript/String-trim.md)
 
-<br />
-<br />
+### Array Methods
+
+- [Array 메서드 slice 와 splice의 차이점 및 정의](./javascript/array2.md)
+- [Array.prototype.fillter 메서드](./javascript/array-filter.md)
+- [Array.prototype.every 메서드](<./javascript/Array.prototype.every().md>)
+- [Array.from 메서드](./javascript/Array.prototype.from.md)
+
+### DOM Methods/Property
+
+- [Element.prototype.matches : 특정 요소 노드를 취득할 수 있는지 확인]
+- [노드 탐색 프로퍼티들]
+- [노드 삽입]
+- [노드 교체]
+- [노드 삭제]
+- [요소 노드의 텍스트 조작]
+- [innerHTML 프로퍼티]
+- [insertAdjacentHTML 메서드]
+- [Element.prototype.getAttribute과setAttribute 메서드 : 어트리뷰트 조작]
+  <br />
+  <br />
 
 # [![react](https://skillicons.dev/icons?i=react)](https://skillicons.dev) &nbsp; react
 
-### React Fundamentals
+## React Fundamentals
 
 - ["스냅샷"같은 상태](./react/snap_shot.md)
 - [React에서의 가상돔](./react/virtualDOM.md)
 
-### React Hooks
+## React Hooks
 
 - [reactRouter Hook useLocation](./react/useLocation.md)
 - [useMemo vs useCallback](./react/useMemo-useCallback.md)
 - [useSearchParams](./react/useSearchParams.md)
 
-### React Librarys
+## React Librarys
 
 - [Helmet](./react/Helmet.md)
 
-### React Statement Management
+## React Statement Management
 
 <br />
 <br />
@@ -134,4 +150,9 @@
 
 # [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) &nbsp; nextjs
 
+## Why Next.js?
+
 - 준비중입니다..😵
+- 왜 Nextjs인가?
+- 이미지 최적화
+- 메타데이터 최적화

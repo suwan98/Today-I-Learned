@@ -6,15 +6,13 @@
 - 특정노드가 다른 노드의 자식인지를 확인하는 기능을 수행한다.
 
 ```js
-node.contains(otherNode)
-
+node.contains(otherNode);
 
 // childNode가 parentNode의 자손인지 확인하는 유틸리티함수
-function isChildNode(parent,child){
-    if(typeof parent !== 'string'){
-        parent = document.querySelecotr(parent)
-    }
-    return parent.contains(child)
+function isChildNode(parent, child) {
+  if (typeof parent !== "string") {
+    parent = document.querySelecotr(parent);
+  }
+  return parent.contains(child);
 }
-
 ```
