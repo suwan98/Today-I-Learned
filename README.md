@@ -103,7 +103,7 @@
 - [Element.prototype.matches 메서드 : 특정 요소 노드를 취득할 수 있는지 확인](./javascript/Element_matches.md)
 - [노드 탐색 프로퍼티들](./javascript/search_nodes.md)
 - [appendChild & inserBefore : 특정 노드 삽입 메서드와 프로퍼티](./javascript/appendChild_insertBefore.md)
-- [노드 교체]
+- [노드 교체](./javascript/change_node.md)
 - [노드 삭제]
 - [요소 노드의 텍스트 조작]
 - [innerHTML 프로퍼티]
