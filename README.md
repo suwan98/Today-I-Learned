@@ -101,7 +101,7 @@
 ### DOM Methods/Property
 
 - [Element.prototype.matches 메서드 : 특정 요소 노드를 취득할 수 있는지 확인](./javascript/Element_matches.md)
-- [노드 탐색 프로퍼티들]
+- [노드 탐색 프로퍼티들](./javascript/search_nodes.md)
 - [노드 삽입]
 - [노드 교체]
 - [노드 삭제]
