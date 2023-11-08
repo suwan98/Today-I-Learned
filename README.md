@@ -109,7 +109,7 @@
 - [요소 노드의 텍스트 조작](./javscript/handle_textNode.md)
 - [innerHTML 프로퍼티](./javascript/innerHTML.md)
 - [insertAdjacentHTML 메서드](./javascript/insertAdjacentHTML.md)
-- [Element.prototype.getAttribute과setAttribute 메서드 : 어트리뷰트 조작]
+- [Element.prototype.getAttribute과setAttribute 메서드 : 어트리뷰트 조작](./javascript/handle_attribute.md)
   <br />
   <br />
 
