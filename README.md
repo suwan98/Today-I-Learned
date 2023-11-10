@@ -68,7 +68,8 @@
 - [export VS export default](./javascript/export_export-default.md)
 - [HTMLCollection과 NodeList](./javascript/HTMLCollection_NodeList.md)
 - [어트리뷰트 노드와 attributes 프로퍼티](./javascript/AttributesObject.md)
-- [DOMTokenList 객체]
+- [DOMTokenList 객체](./javascript/DOMTokenList.md)
+- [URLSearchParams 객체](./javascript/URLSearchParams.md)
 
 ## JavaScript Engine
 
