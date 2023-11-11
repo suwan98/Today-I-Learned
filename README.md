@@ -119,6 +119,7 @@
 
 ## React Fundamentals
 
+- [리액트는 무엇인가?](./react/whatIsReact.md)
 - ["스냅샷"같은 상태](./react/snap_shot.md)
 - [React에서의 가상돔](./react/virtualDOM.md)
 
