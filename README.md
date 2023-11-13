@@ -145,6 +145,7 @@
 - [TypeScript만의 특별한 type의 선언](./typescript/typescript_type.md)
 - [TypeScript 타입 연산자 종류](./typescript/ts_operator.md)
 - [TypeScript에서의 keyof 연산자](./typescript/ts_keyof.md)
+- [타입별칭](./typescript/type_alias.md)
 - [인터페이스](./typescript/interface.md)
 - [타입단언](./typescript/type_assertion.md)
 - [함수오버로딩](./typescript/function_overloading.md)
