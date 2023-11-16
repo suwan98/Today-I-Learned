@@ -158,7 +158,10 @@
 
 ## Why Next.js?
 
-- 준비중입니다..😵
-- 왜 Nextjs인가?
+- [왜 Nextjs인가?](./nextjs/why_nextjs.md)
 - 이미지 최적화
 - 메타데이터 최적화
+
+## Nextjs Fundamentals
+
+- [Nextjs에서 세그먼트](./nextjs/nextjs_sagment.md)
