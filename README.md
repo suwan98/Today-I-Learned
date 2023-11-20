@@ -16,6 +16,7 @@
 - [상대 원격저장소 끊고 내 원격저장소로 만들기](./git/git-remote-and-clone.md)
 - [Stash](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/git/git-stash.md)
 - [Fork](./git/fork.md)
+
 - [Git으로 특정 브랜치 clone 및 degit](./git/git-clone-branch.md)
 - [UpStream 과 DownStream의 관계 및 설정](./git/upstream-downstream.md)
 
@@ -26,6 +27,7 @@
 
 - [`<adress>` 태그](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/adress-tag.md)
 - [ `<i>` 태그 이슈](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/html/i-tag-issue.md)
+
 - [HTML Form 태그 및 접근성](./html/html-form.md)
 - [HTML data-\* 접두사](./html/data.md)
 
@@ -39,6 +41,7 @@
 - [CSS 선택자](./css/css-selector.md)
 - [CSS Animation](./css/animation.md)
 - [CSS object-fit 속성에 대해서](./css/object-fit.md)
+
 - [CSS position top,bottom,left,right translate 완벽정리](./css/CSS-top-right-left-bottom.md)
 - [flex-item 속성](./css/flex-item.md)
 - [position:relative 와 absolute 완벽 이해하기](./css/position.md)
@@ -61,6 +64,7 @@
 - [for-in 문](./javascript/for-in.md)
 - [for-of 문](./javascript/for-of.md)
 - [OR(||)연산자와 AND연산자(&&)](./javascript/AND_OR.md)
+
 - [utility custom function getCSS/setCSS 만들어보기](./javascript/getCSS_setCSS.md)
 - [callback 함수](./javascript/callback-function.md)
 - [this와 동적인 바인딩](./javascript/this.md)
@@ -76,18 +80,20 @@
 - [가비지 콜렉터](./javascript/garbage_collection.md)
 - [렉시컬 스코프](./javascript/lexical_scope.md)
 - [문서 객체 모델 (DOM)](./javascript/DOM.md)
+
 - [브라우저 객체 모델(BOM)](./javascript/BOM.md)
 - [변수의 생명주기](./javascript/variable_life_cycle.md)
 - [원시값과 래퍼객체](./javascript/rapperObject.md)
 - [Javascript Scope 개념](./javascript/scope.md)
+- [Ajax](./javascript/ajax.md)
 
 ## JavaScript Methods&Property
 
 - [BOM navigatior의 copy 기능](./javascript/Object.prototype.toString.md)
 - [Element.closest](./javascript/closest.md)
+
 - [ECMAScript 2023에 추가된 신기능 toSorted/toReversed/toSpliced 메서드](./javascript/toSorted_toReversed_toSpliced.md)
 - [Javascript call 메서드](./javascript/call.md)
-
 - [Object.assign 메서드](./javascript/Object.assign.md)
 - [Object.keys와 Object.values 메서드](./javascript/Object-keys.md)
 - [String.trim메서드](./javascript/String-trim.md)
@@ -96,6 +102,7 @@
 
 - [Array 메서드 slice 와 splice의 차이점 및 정의](./javascript/array2.md)
 - [Array.prototype.fillter 메서드](./javascript/array-filter.md)
+
 - [Array.prototype.every 메서드](<./javascript/Array.prototype.every().md>)
 - [Array.from 메서드](./javascript/Array.prototype.from.md)
 
@@ -107,6 +114,7 @@
 - [appendChild & inserBefore : 특정 노드 삽입 메서드와 프로퍼티](./javascript/appendChild_insertBefore.md)
 - [노드 탐색 프로퍼티들](./javascript/search_nodes.md)
 - [노드 교체](./javascript/change_node.md)
+
 - [노드 삭제](./javascript/remove_node.md)
 - [요소 노드의 텍스트 조작](./javscript/handle_textNode.md)
 - [innerHTML 프로퍼티](./javascript/innerHTML.md)
@@ -121,6 +129,7 @@
 
 - [리액트는 무엇인가?](./react/whatIsReact.md)
 - [React에서의 가상돔](./react/virtualDOM.md)
+
 - [단방향 데이터 바인딩](./react/one_way_data_binding.md)
 - ["스냅샷"같은 상태](./react/snap_shot.md)
 
@@ -128,6 +137,7 @@
 
 - [reactRouter Hook useLocation](./react/useLocation.md)
 - [useMemo vs useCallback](./react/useMemo-useCallback.md)
+
 - [useSearchParams](./react/useSearchParams.md)
 
 ## React Librarys
@@ -141,6 +151,7 @@
 - [Zustand란?](./react/zustand/zustand.md)
 - [Zustand를 통한 전역 상태 업데이트](./react/zustand/zustand_state.md)
 - [Persist 미들웨어](./react/zustand/persist.md)
+
 - [Zustand에서 권장되는 패턴 : Flux 아키텍쳐](./react/zustand/zustand_flux.md)
 
 <br />
@@ -153,6 +164,7 @@
 - [TypeScript 타입 연산자 종류](./typescript/ts_operator.md)
 - [TypeScript에서의 keyof 연산자](./typescript/ts_keyof.md)
 - [타입별칭](./typescript/type_alias.md)
+
 - [인터페이스](./typescript/interface.md)
 - [타입단언](./typescript/type_assertion.md)
 - [함수오버로딩](./typescript/function_overloading.md)
