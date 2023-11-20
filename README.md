@@ -139,6 +139,7 @@
 **Zustand**
 
 - [Zustand란?](./react/zustand/zustand.md)
+- [Zustand를 통한 전역 상태 업데이트](./react/zustand/zustand_state.md)
 
 <br />
 <br />
