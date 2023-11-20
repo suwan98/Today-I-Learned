@@ -16,7 +16,7 @@
 - [상대 원격저장소 끊고 내 원격저장소로 만들기](./git/git-remote-and-clone.md)
 - [Stash](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/git/git-stash.md)
 - [Fork](./git/fork.md)
-- [git으로 특정 브랜치 clone 및 degit](./git/git-clone-branch.md)
+- [Git으로 특정 브랜치 clone 및 degit](./git/git-clone-branch.md)
 - [UpStream 과 DownStream의 관계 및 설정](./git/upstream-downstream.md)
 
   <br/>
@@ -141,6 +141,7 @@
 - [Zustand란?](./react/zustand/zustand.md)
 - [Zustand를 통한 전역 상태 업데이트](./react/zustand/zustand_state.md)
 - [Persist 미들웨어](./react/zustand/persist.md)
+- [Zustand에서 권장되는 패턴 : Flux 아키텍쳐](./react/zustand/zustand_flux.md)
 
 <br />
 <br />
