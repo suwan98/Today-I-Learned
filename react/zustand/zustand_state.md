@@ -32,9 +32,51 @@ const usePersonStore = create<State & Action>((set) => ({
 export default usePesonStore;
 ```
 
-### 중첩된 객체일 경우?
+## 구성한 Store를 기반으로 실제 `App`에서 핸들링
 
-**아래와 같은 프로퍼터가 중첩된 `Object`인 경우**
+- 실제 애플리케이션에서 사용은 `use정의한스토어이름((state) => state.정의한 상태및 업데이트 로직)` 패턴을 통해 사용한다
+
+```tsx
+import usePesonStore from "./store/store";
+
+function App() {
+  const firstName = usePesonStore((state) => state.firstName);
+  const updateFirstName = usePesonStore((state) => state.updateFirstName);
+
+  return (
+    <>
+      <input
+        type="text"
+        value={firstName}
+        onChange={(e) => updateFirstName(e.target.value)}
+      />
+
+      <p>Hello {firstName}</p>
+    </>
+  );
+}
+
+export default App;
+```
+
+## 중첩된 객체일 경우?
+
+**1depth인 경우 `Zustand`는 해당 상태를 기본적으로 얕은복사한다**
+
+```js
+const useCountStore = create((set) => ({
+  count: 0,
+  inc: () => set((state) => ({count: state.count + 1})),
+}));
+
+/* 이럴 필요 없다 ❌*/
+set((state) => ({...state, count: state.count + 1}));
+
+/* 바로 상태 업데이트 로직을 작성시키면됨 */
+set((state) => ({count: state.count + 1}));
+```
+
+**그러나, 아래와 같은 프로퍼터가 중첩된 `Object`인 경우**
 
 ```ts
 type State = {
