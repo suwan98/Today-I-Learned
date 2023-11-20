@@ -74,6 +74,8 @@
 - [어트리뷰트 노드와 attributes 프로퍼티](./javascript/AttributesObject.md)
 - [DOMTokenList 객체](./javascript/DOMTokenList.md)
 - [URLSearchParams 객체](./javascript/URLSearchParams.md)
+- [Ajax](./javascript/ajax.md)
+- [XMLHttpRequest 객체](./javascript/XMLHttpRequest.md)
 
 ## JavaScript Engine
 
@@ -85,7 +87,6 @@
 - [변수의 생명주기](./javascript/variable_life_cycle.md)
 - [원시값과 래퍼객체](./javascript/rapperObject.md)
 - [Javascript Scope 개념](./javascript/scope.md)
-- [Ajax](./javascript/ajax.md)
 
 ## JavaScript Methods&Property
 
