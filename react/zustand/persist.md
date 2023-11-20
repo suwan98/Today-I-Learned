@@ -8,7 +8,7 @@
 ## Persist 사용 방법
 
 - 매우 간단하다. 기존에 정의되어 있는 `create` 함수 내부에 `persist`로 래핑하면 된다.
-- 그리고 두번째 인수로 추가적으로 persist를 구별할 수 있는 고유의 `key`값을 넣어줘야 한다.
+- 그리고 두번째 인수(객체로이루어짐)로 추가적으로 persist를 구별할 수 있는 고유의 `key`값 `name` 프로퍼티에 넣어줘야 한다.
 
 ```tsx
 /* persist로 래핑하기 전 */
@@ -59,7 +59,12 @@ export const useTodoStore = create<TodoState & TodoAction>(
           };
         }),
     }),
-    "todos"
+    {
+      name: "TODO-KEY",
+    }
   )
 );
 ```
+
+**persist로 인해 로컬스토리지에 적용된 키-밸류**
+![Alt text](persist.png)
