@@ -179,7 +179,7 @@
 ## Why Next.js?
 
 - [왜 Nextjs인가?](./nextjs/why_nextjs.md)
-- 이미지 최적화
+- [Nextjs에서의 이미지 최적화](./nextjs/nextjs_image.md)
 - 메타데이터 최적화
 
 ## Nextjs Fundamentals
