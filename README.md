@@ -147,7 +147,7 @@
 
 ## React Statement Management
 
-**Zustand**
+Zustand
 
 - [Zustand란?](./react/zustand/zustand.md)
 - [Zustand를 통한 전역 상태 업데이트](./react/zustand/zustand_state.md)
@@ -180,8 +180,8 @@
 
 - [왜 Nextjs인가?](./nextjs/why_nextjs.md)
 - [Nextjs에서의 이미지 최적화](./nextjs/nextjs_image.md)
-- 메타데이터 최적화
 
 ## Nextjs Fundamentals
 
 - [Nextjs에서 세그먼트](./nextjs/nextjs_sagment.md)
+- [Nextjs에서 로딩페이지와 에러페이지](./nextjs/loading_error.md)
