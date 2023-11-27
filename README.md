@@ -185,3 +185,4 @@ Zustand
 
 - [Nextjs에서 세그먼트](./nextjs/nextjs_sagment.md)
 - [Nextjs에서 로딩페이지와 에러페이지](./nextjs/loading_error.md)
+- [Nextjs에서의 환경변수](./nextjs/inviorment_variable.md)
