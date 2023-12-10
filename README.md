@@ -134,6 +134,7 @@
 
 - [단방향 데이터 바인딩](./react/one_way_data_binding.md)
 - ["스냅샷"같은 상태](./react/snap_shot.md)
+- [setState가 부수 효과를 일으키는 함수인 이유](./react/set_state.md)
 
 ## React Hooks
 
