@@ -55,6 +55,7 @@
 
 ## JavaScript Fundamentals
 
+- [비교연산자 < , > 쉽게 이해하기](./javascript/compare-operators.md)
 - [배열의 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/array.md)
 - [일반함수에서 argments와 화살표함수에서 rest-parmeter](./javascript/argments.md)
 - [배열과 객체의 구조 분해 할당](./javascript/destructuring-assignment.md)
