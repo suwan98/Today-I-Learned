@@ -107,6 +107,7 @@
 
 - [Array.prototype.every 메서드](<./javascript/Array.prototype.every().md>)
 - [Array.from 메서드](./javascript/Array.prototype.from.md)
+- [Array.prototype.some 메서드](./javascript/array-some.md)
 
 ### DOM Methods/Property
 
