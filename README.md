@@ -101,6 +101,7 @@
 - [Object.assign 메서드](./javascript/Object.assign.md)
 - [Object.keys와 Object.values 메서드](./javascript/Object-keys.md)
 - [String.trim메서드](./javascript/String-trim.md)
+- [structuredClone](./javascript/structuredClone.md)
 
 ### Array Methods
 
