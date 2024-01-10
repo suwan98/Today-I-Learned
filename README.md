@@ -11,6 +11,13 @@
 <br/>
 <br />
 
+# 🌏 Web
+
+- [OAuth 개념](./web/OAuth.md)
+
+  <br/>
+  <br />
+
 # [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp; git
 
 - [상대 원격저장소 끊고 내 원격저장소로 만들기](./git/git-remote-and-clone.md)
