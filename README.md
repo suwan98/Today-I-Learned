@@ -64,6 +64,8 @@
 ## JavaScript Fundamentals
 
 - [변수](./javascript/variable.md)
+- [자바스크립트에서의 변수의 선언](./javascript/variable-declartion.md)
+- [변수 선언의 실행시점과 호이스팅](./javascript/variable-hoisting.md)
 - [비교연산자 < , > 쉽게 이해하기](./javascript/compare-operators.md)
 - [배열의 정의](https://github.com/suwan98/TIL-Today-I-Learned/blob/main/javascript/array.md)
 - [일반함수에서 argments와 화살표함수에서 rest-parmeter](./javascript/argments.md)
