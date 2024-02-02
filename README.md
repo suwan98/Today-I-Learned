@@ -154,6 +154,8 @@
 - ["스냅샷"같은 상태](./react/snap_shot.md)
 - [setState가 부수 효과를 일으키는 함수인 이유](./react/set_state.md)
 
+- [Render Props 패턴](./react/render-props.md)
+
 ## React Hooks
 
 - [reactRouter Hook useLocation](./react/useLocation.md)
