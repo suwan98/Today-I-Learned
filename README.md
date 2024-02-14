@@ -24,6 +24,7 @@
 
 - [싱글톤 패턴](./cs/single-tone-pattern.md)
 - [팩토리 패턴](./cs/factory-pattern.md)
+- [옵저버 패턴](./cs/observer-pattern.md)
 
 <br />
 <br />
