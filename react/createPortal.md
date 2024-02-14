@@ -19,6 +19,8 @@
 
 2. createPortal의 첫번째 인자로는 렌더링하고자 하는 JSX, 두번째로는 렌더링하고자 하는 DOM 노드를 전달한다.
 
+- 아래 예시에선 렌더링할 모달 jsx 코드와 modal-root DOM Node를 createPortal에서 인자로 전달하고 있는 모습이다.
+
 ```jsx
 function Modal({children, buttonCaption}, ref) {
   const dialog = useRef(null);
