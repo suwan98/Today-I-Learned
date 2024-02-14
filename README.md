@@ -23,6 +23,10 @@
 ## Design Pattern
 
 - [싱글톤 패턴](./cs/single-tone-pattern.md)
+- [팩토리 패턴](./cs/factory-pattern.md)
+
+<br />
+<br />
 
 # [![git](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp; git
 
