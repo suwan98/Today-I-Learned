@@ -111,6 +111,7 @@
 ## JavaScript Engine
 
 - [가비지 콜렉터](./javascript/garbage_collection.md)
+- [스코프](./javascript/scope.md)
 - [렉시컬 스코프](./javascript/lexical_scope.md)
 - [문서 객체 모델 (DOM)](./javascript/DOM.md)
 
