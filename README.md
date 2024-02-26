@@ -64,7 +64,7 @@
 - [CSS position top,bottom,left,right translate 완벽정리](./css/CSS-top-right-left-bottom.md)
 - [flex-item 속성](./css/flex-item.md)
 - [position:relative 와 absolute 완벽 이해하기](./css/position.md)
-- [display:grid; 완벽 이해하기](./css/grid.md)
+- [display:grid 완벽 이해하기](./css/grid.md)
 - [CSS로만 Layer 구현](./css/layer.md)
 
 <br />
@@ -177,6 +177,8 @@
 
 - [forwardRef](./react/forwardRef.md)
 - [createPortal](./react/createPortal.md)
+
+- [useImperativeHandle](./react/useImperativeHandle.md)
 
 ## React Librarys
 
