@@ -144,7 +144,7 @@
 - [Node.contains 메서드](<./javascript/Node.contains().md>)
 - [Node.removeChild 메서드](./javascript/Node.removeChild.md)
 - [Element.prototype.matches 메서드 : 특정 요소 노드를 취득할 수 있는지 확인](./javascript/Element_matches.md)
-- [appendChild & inserBefore : 특정 노드 삽입 메서드와 프로퍼티](./javascript/appendChild_insertBefore.md)
+- [appendChild & insertBefore : 특정 노드 삽입 메서드와 프로퍼티](./javascript/appendChild_insertBefore.md)
 - [노드 탐색 프로퍼티들](./javascript/search_nodes.md)
 - [노드 교체](./javascript/change_node.md)
 
@@ -208,6 +208,8 @@ Zustand
 - [TypeScript 타입 연산자 종류](./typescript/ts_operator.md)
 - [TypeScript에서의 keyof 연산자](./typescript/ts_keyof.md)
 - [타입별칭](./typescript/type_alias.md)
+
+- [interface와 type의 차이점](./typescript/interface-type.md)
 
 - [인터페이스](./typescript/interface.md)
 - [타입단언](./typescript/type_assertion.md)
