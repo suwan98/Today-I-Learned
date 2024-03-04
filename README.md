@@ -15,6 +15,7 @@
 
 - [OAuth 개념](./web/OAuth.md)
 - [FOIT(Flash Of Invisible Text) 현상](./web/foit.md)
+- [FOUT(Flash of Unstyled Text) 현상](./web/fout.md)
 
   <br/>
   <br />
