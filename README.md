@@ -175,6 +175,8 @@
 
 - [Render Props 패턴](./react/render-props.md)
 
+- [React.render()메서드와 ReactDOM.render()메서드의 차이점](./react/render-diffrence.md)
+
 ## React Hooks
 
 - [reactRouter Hook useLocation](./react/useLocation.md)
