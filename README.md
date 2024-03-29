@@ -45,6 +45,7 @@
 - [Git으로 특정 브랜치 clone 및 degit](./git/git-clone-branch.md)
 - [UpStream 과 DownStream의 관계 및 설정](./git/upstream-downstream.md)
 - [Git Flow](./git/git-flow.md)
+- [Git 단축명령 생성](./git/git-alias.md)
 
   <br/>
   <br />
