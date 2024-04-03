@@ -179,6 +179,8 @@
 
 - [React & ReactDOM](./react/render-diffrence.md)
 
+- [Context API](./react/why-context-api.md)
+
 ## React Hooks
 
 - [reactRouter Hook useLocation](./react/useLocation.md)
