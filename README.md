@@ -181,6 +181,8 @@
 
 - [Context API](./react/why-context-api.md)
 
+- [React에서 렌더링이 일어나는 경우](./react/react-rendering.md)
+
 ## React Hooks
 
 - [reactRouter Hook useLocation](./react/useLocation.md)
