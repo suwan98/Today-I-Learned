@@ -188,6 +188,8 @@
 - [reactRouter Hook useLocation](./react/useLocation.md)
 - [useMemo vs useCallback](./react/useMemo-useCallback.md)
 
+- [useReducer](./react/useReducer.md)
+
 - [useSearchParams](./react/useSearchParams.md)
 - [useContext](./react/useContext.md)
 
