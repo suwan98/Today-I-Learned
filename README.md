@@ -186,6 +186,9 @@
 ## React Hooks
 
 - [reactRouter Hook useLocation](./react/useLocation.md)
+
+- [useEffect](./react/useEffect.md)
+
 - [useMemo vs useCallback](./react/useMemo-useCallback.md)
 
 - [useReducer](./react/useReducer.md)
