@@ -16,8 +16,10 @@
 - [OAuth 개념](./web/OAuth.md)
 - [FOIT(Flash Of Invisible Text) 현상](./web/foit.md)
 - [FOUT(Flash of Unstyled Text) 현상](./web/fout.md)
+
 - [아토믹 디자인](./web/atomic-design.md)
 
+- [싱글 페이지 애플리케이션](./web/spa.md)
   <br/>
   <br />
 
