@@ -19,7 +19,9 @@
 
 - [아토믹 디자인](./web/atomic-design.md)
 
-- [싱글 페이지 애플리케이션](./web/spa.md)
+- [싱글 페이지 애플리케이션(SPA)](./web/spa.md)
+
+- [서버사이드 렌더링(SSR)](./web/ssr.md)
   <br/>
   <br />
 
