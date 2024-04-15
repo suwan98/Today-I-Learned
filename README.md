@@ -117,6 +117,8 @@
 - [XMLHttpRequest 객체](./javascript/XMLHttpRequest.md)
 - [이터러블](./javascript/iterable.md)
 
+- [프로토타입](./javascript/prototype.md)
+
 ## JavaScript Engine
 
 - [가비지 콜렉터](./javascript/garbage_collection.md)
