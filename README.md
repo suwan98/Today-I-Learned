@@ -123,6 +123,8 @@
 
 - [프로토타입](./javascript/prototype.md)
 
+- [디바운스](./javascript/debounce.md)
+
 ## JavaScript Engine
 
 - [가비지 콜렉터](./javascript/garbage_collection.md)
