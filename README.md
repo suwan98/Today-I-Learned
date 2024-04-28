@@ -125,6 +125,8 @@
 
 - [디바운스](./javascript/debounce.md)
 
+- [스로틀링](./javascript/throttle.md)
+
 ## JavaScript Engine
 
 - [가비지 콜렉터](./javascript/garbage_collection.md)
