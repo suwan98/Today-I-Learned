@@ -43,6 +43,8 @@
 
 - [HTTP/HTTPS](./cs/httpAndHttps.md)
 
+- [HTTP 상태 코드](./cs/http-status-code.md)
+
 <br />
 <br />
 
