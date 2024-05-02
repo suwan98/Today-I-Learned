@@ -47,6 +47,8 @@
 
 - [TCP/IP 프로토콜](./cs/TCP&IP.md)
 
+- [CORS (Cross Origin Resoure Sharing)](./cs/cors.md)
+
 <br />
 <br />
 
