@@ -135,6 +135,8 @@
 
 - [스로틀링](./javascript/throttle.md)
 
+- [옵셔널 체이닝](./javascript/optional-chaning.md)
+
 ## JavaScript Engine
 
 - [가비지 콜렉터](./javascript/garbage_collection.md)
