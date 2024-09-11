@@ -209,6 +209,8 @@
 
 - [React에서 렌더링이 일어나는 경우](./react/react-rendering.md)
 
+- [컴포넌트의 생명주기](./react/component-life-cycle.md)
+
 ## React Hooks
 
 - [reactRouter Hook useLocation](./react/useLocation.md)
